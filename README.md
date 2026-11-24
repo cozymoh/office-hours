@@ -1,3 +1,1 @@
-
-This will be a good one 
-if it works-
+restaurant program i won't talk further because the readme file isn't required 
